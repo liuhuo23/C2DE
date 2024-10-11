@@ -2,3 +2,4 @@
 /ICEWS18/train_history_sub.txt filter=lfs diff=lfs merge=lfs -text
 /ICEWS18/train_o_frequency.txt filter=lfs diff=lfs merge=lfs -text
 /ICEWS18/train_s_frequency.txt filter=lfs diff=lfs merge=lfs -text
+/WIKI/train_history_ob.txt filter=lfs diff=lfs merge=lfs -text
